@@ -32,7 +32,7 @@ This is a personal learning repository, but suggestions and improvements are alw
 ## 📧 Contact  
 Feel free to connect with me on:  
 - GitHub: [Modlat-cloud](https://github.com/Modlat-cloud)  
-- LinkedIn: (Add your LinkedIn link here)  
+- LinkedIn: [modinatabdullateef89](https://linkedin.com/in/modinatabdullateef89)
 
 ---
 Made with ❤️ while learning Web Development.
